@@ -1,4 +1,4 @@
-# SQL Projects
+# SQL Project
 
 In my second semester, I embarked on an Oracle SQL project that delved into the intricacies of stock brokerage operations. The project focused on capturing real-time front-office transactions and efficiently managing the corresponding database in the back office. The comprehensive database design encompassed vital client details, share scripts, and transaction records. Leveraging the capabilities of SQL queries, I meticulously developed five essential accounting reports, widely employed by stock brokers for insightful analysis of the accumulated data.
 
